@@ -4,6 +4,11 @@
   <img src="img\reprograma.png" alt="logo reprograma" width="500">
 </h1>
 
+## Resumo
+
+* [O que é um Algoritmo](#Algoritmos)
+* [O que é e como funciona a Internet](#O-que-e-e-como-funciona-a-internet)
+
 ## Algoritmos
 
 Algoritmo é um conceito muito simples e que, muitas vezes, sem perceber, utilizamos no nosso dia a dia.
